@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpd61/README-generator.git"
+    "url": "https://github.com/colinale/ReadMe-Challenge"
   },
   "author": "Colin Alexander",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jpd61/README-generator/issues"
+    "url": "https://github.com/colinale/ReadMe-Challenge/issues"
   },
-  "homepage": "https://github.com/jpd61/README-generator#readme",
+  "homepage": "https://github.com/colinale/ReadMe-Challenge",
   "dependencies": {
     "axios": "^0.19.2",
     "inquirer": "^7.1.0",

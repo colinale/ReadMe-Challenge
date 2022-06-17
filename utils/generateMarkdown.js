@@ -28,20 +28,7 @@ function generateReadme(answers) {
 <br />
 This application is covered by the ${answers.license} license. 
 
-## Contributing
-👪 ${answers.contributing}
-
-## Tests
-✏️ ${answers.tests}
-
-## Questions
-✋ ${answers.questions}<br />
-<br />
-:octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
-<br />
-✉️ Email me with any questions: ${answers.email}<br /><br />
-
-_This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
+[README-generator](https://github.com/colinale/ReadMe-Challenge) 🔥🔥🔥_
   `;
 }
 
